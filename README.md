@@ -97,7 +97,7 @@ python_functions = test_*
 # 测试用例分组执行 
 markers =
       smoke:冒烟用例
-      mashang:码尚教育
+      mashang:马上测试
       product manage:商品管理模块用例
       user manage:用户管理模块
       
